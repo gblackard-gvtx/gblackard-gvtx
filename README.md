@@ -21,7 +21,7 @@ class DeveloperProfile:
         }
         self.projects = {
             "Clint": "A tool for Twitch streamers to clip and mint livestream footage as NFTs on the Rarible Platform.",
-            "DealsBot": "A tool that aggregates sale items from retailers into a single platform for ease of access by consumers."
+            "DealsBot": "A tool that aggregates sale items from retailers into a single platform for ease of access"
         }
 ```
 
